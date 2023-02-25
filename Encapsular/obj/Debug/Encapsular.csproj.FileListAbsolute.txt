@@ -1,0 +1,8 @@
+C:\Luana-cursos\ClassesObjetos\Encapsular\bin\Debug\Encapsular.exe.config
+C:\Luana-cursos\ClassesObjetos\Encapsular\bin\Debug\Encapsular.exe
+C:\Luana-cursos\ClassesObjetos\Encapsular\bin\Debug\Encapsular.pdb
+C:\Luana-cursos\ClassesObjetos\Encapsular\obj\Debug\Encapsular.csproj.AssemblyReference.cache
+C:\Luana-cursos\ClassesObjetos\Encapsular\obj\Debug\Encapsular.csproj.SuggestedBindingRedirects.cache
+C:\Luana-cursos\ClassesObjetos\Encapsular\obj\Debug\Encapsular.csproj.CoreCompileInputs.cache
+C:\Luana-cursos\ClassesObjetos\Encapsular\obj\Debug\Encapsular.exe
+C:\Luana-cursos\ClassesObjetos\Encapsular\obj\Debug\Encapsular.pdb

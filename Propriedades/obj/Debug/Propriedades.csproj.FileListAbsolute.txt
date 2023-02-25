@@ -1,0 +1,8 @@
+C:\Luana-cursos\ClassesObjetos\Propriedades\bin\Debug\Propriedades.exe.config
+C:\Luana-cursos\ClassesObjetos\Propriedades\bin\Debug\Propriedades.exe
+C:\Luana-cursos\ClassesObjetos\Propriedades\bin\Debug\Propriedades.pdb
+C:\Luana-cursos\ClassesObjetos\Propriedades\obj\Debug\Propriedades.csproj.AssemblyReference.cache
+C:\Luana-cursos\ClassesObjetos\Propriedades\obj\Debug\Propriedades.csproj.SuggestedBindingRedirects.cache
+C:\Luana-cursos\ClassesObjetos\Propriedades\obj\Debug\Propriedades.csproj.CoreCompileInputs.cache
+C:\Luana-cursos\ClassesObjetos\Propriedades\obj\Debug\Propriedades.exe
+C:\Luana-cursos\ClassesObjetos\Propriedades\obj\Debug\Propriedades.pdb

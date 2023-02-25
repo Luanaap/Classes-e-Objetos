@@ -1,0 +1,8 @@
+C:\Luana-cursos\ClassesObjetos\Estaticas\bin\Debug\Estaticas.exe.config
+C:\Luana-cursos\ClassesObjetos\Estaticas\bin\Debug\Estaticas.exe
+C:\Luana-cursos\ClassesObjetos\Estaticas\bin\Debug\Estaticas.pdb
+C:\Luana-cursos\ClassesObjetos\Estaticas\obj\Debug\Estaticas.csproj.AssemblyReference.cache
+C:\Luana-cursos\ClassesObjetos\Estaticas\obj\Debug\Estaticas.csproj.SuggestedBindingRedirects.cache
+C:\Luana-cursos\ClassesObjetos\Estaticas\obj\Debug\Estaticas.csproj.CoreCompileInputs.cache
+C:\Luana-cursos\ClassesObjetos\Estaticas\obj\Debug\Estaticas.exe
+C:\Luana-cursos\ClassesObjetos\Estaticas\obj\Debug\Estaticas.pdb
